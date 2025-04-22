@@ -1,0 +1,23 @@
+.reccomended-flex{
+    display: flex;
+    margin-left: 22rem;
+}
+.reccomended-title{
+    margin-left: 22rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.btns{
+    padding: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    padding: 12px;
+    margin-right: 12px;
+    background-color: transparent;
+    border: none;
+    border: 0.6px solid #ccc;
+    border-radius: 6px;
+    color: #323232;
+    cursor: pointer;
+}

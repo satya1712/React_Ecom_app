@@ -1,0 +1,36 @@
+.sidebar {
+    width: 15%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    border-right: 4px solid wheat;
+    padding: 1rem;
+    background-color: #fefefe;
+    box-sizing: border-box;
+    overflow-y: scroll;
+  
+    /* Hide scrollbars */
+    scrollbar-width: none;          /* Firefox */
+    -ms-overflow-style: none;       /* IE & Edge */
+  }
+  
+  .sidebar::-webkit-scrollbar {
+    display: none;                  /* Chrome, Safari */
+  }
+  
+  .sidebar-title {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .logo-container {
+    margin-bottom: 4rem;
+  }
+  
+  .logo-container h1 {
+    margin-top: 1.3rem;
+    margin-left: 5rem;
+
+  }
+  
